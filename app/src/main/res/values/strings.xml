@@ -1,13 +1,36 @@
 <resources>
     <string name="app_name">AndroidStudyJam</string>
     <string name="action_settings">Settings</string>
+    <string name="text_one">Five most amazing buildings of the world</string>
     <string name="title">A self-made billionaire came up with these wacky concept buildings —
                          including a leg tower</string>
+    <string name="butt_text">Cobra Tower</string>
+    <string name="but1_text">Venus Tower</string>
+    <string name="but_realistic">Unrealistic</string>
+    <string name="but_design">Designing Concepts</string>
+    <string name="but_plaza">City Plaza</string>
+    <string name="text_city">The world is his oyster.Three-hundred well-respected French artists were
+        against the Eiffel Tower in Paris.</string>
+    <string name="designtext">Klyukin appears to design buildings without regard to geographical location.
+        Most of his concept art shows the same structures in multiple cities.</string>
+    <string name="back_but">Back</string>
+
+ <string name="real">He was inspired to design skyscrapers after dreaming one up called the Monaco Comet. In 2014, he purchased a small building in the city-state
+     with aspirations to convert it into the Monaco Comet, though no plants have been set in motion.</string>
+<string name="venustext">Klyukin appears to design buildings without regard to geographical location.
+        Most of his concept art shows the same structures in multiple cities.
+    I realize Venus Tower cannot be built in an Arabic country, he says. However if I like a photo of a city,
+        and I want to show a specific view, I could use Boston and Dubai.</string>
+    <string name="cobra">Many of the structures end up as settings in his science fiction works.He has 10 to 50 ideas for new buildings a day, Klyukin tells us.
+        The self-proclaimed introvert says spending lots of time in his head provides inspiration.</string>
+
     <string-array name="buildings_arr">
         <item>http://static4.techinsider.io/image/56f96ca752bcd05c658b90d8-1200/vasily-klyukin-asian-cobra-tower3.jpg</item>
-        <item>http://static6.techinsider.io/image/56f96cae52bcd029008b9262-1200/the-little-black-dress-inspired-by-coco-chanel-would-house-fashion-retailers.jpg</item>
+        <item>http://static4.techinsider.io/image/56f96ccb52bcd044008b936e-1200/klyukin-appears-to-design-buildings-without-regard-to-geographical-location-most-of-his-concept-art-shows-the-same-structures-in-multiple-cities.jpg</item>
         <item>http://static2.techinsider.io/image/56f96cc452bcd01d7b8b8f60-1200/i-know-that-90-of-my-concepts-are-realistic-and-10-are-realistic-but-expensive-klyukin-says-there-are-no-impossible-concepts.jpg</item>
-        <item>http://static6.techinsider.io/image/56f96cce52bcd05b008b92a0-1200/vasily-klyukin-doesnt-design-buildings-he-designs-landmarks.jpg</item>
-        <item>http://static2.techinsider.io/image/56f96c9e52bcd029008b9260-1200/he-has-10-to-50-ideas-for-new-buildings-a-day-klyukin-tells-us-the-self-proclaimed-introvert-says-spending-lots-of-time-in-his-head-provides-inspiration.jpg</item>
+        <item>http://static3.techinsider.io/image/56f96cb452bcd023008b92d0-1200/regardless-of-what-people-think-klyukin-will-continue-designing-and-writing.jpg</item>
+          <item>http://static1.techinsider.io/image/56f96cbf52bcd020008b91db-1200/here-we-see-a-larger-than-life-hourglass-superimposed-on-a-city-plaza.jpg</item>
+
+
     </string-array>
 </resources>

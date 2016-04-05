@@ -26,6 +26,58 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity android:name=".VenusTowerActivity"
+            android:theme="@style/AlertDialog.AppCompat">
+
+            <intent-filter>
+                <action android:name="android.intent.action.SEND"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+
+
+        <activity android:name=".CityPlazaActivity"
+            android:theme="@style/AlertDialog.AppCompat">
+
+            <intent-filter>
+                <action android:name="android.intent.action.SEND"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+
+
+        <activity android:name=".CobraActivity"
+
+            android:theme="@style/AlertDialog.AppCompat">
+
+            <intent-filter>
+                <action android:name="android.intent.action.SEND"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".DesignConceptsActivity"
+
+            android:theme="@style/AlertDialog.AppCompat">
+
+            <intent-filter>
+                <action android:name="android.intent.action.SEND"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".UnrealisticActivity"
+
+            android:theme="@style/AlertDialog.AppCompat">
+
+            <intent-filter>
+                <action android:name="android.intent.action.SEND"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+
+
     </application>
     <uses-permission android:name="android.permission.INTERNET" />
 

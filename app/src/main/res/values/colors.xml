@@ -4,4 +4,6 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
     <color name="title_color">#000000</color>
+    <color name="color_button">#2E9AFE</color>
+    <color name="color_venus">#FFFFFF</color>
 </resources>

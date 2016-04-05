@@ -50,6 +50,7 @@ public class BuildingAdapter extends RecyclerView.Adapter<BuildingAdapter.ViewHo
     public void onBindViewHolder(BuildingAdapter.ViewHolder holder, int position) {
         Picasso.with(mContext)
                 .load(mDataSet[position])
+                .resizeDimen(R.dimen.image_width, R.dimen.image_height)
                 .into(holder.mImageView);
 
 

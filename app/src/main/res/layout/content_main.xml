@@ -18,20 +18,81 @@
         android:orientation="vertical"
        >
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/title"
-        android:textColor="@color/title_color"
-        android:textSize="@dimen/text_tsize"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/text_one"
+            android:textSize="@dimen/text_one"
 
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="250dp"
+            android:text="@string/title"
+            android:textColor="@color/title_color"
+            android:textSize="@dimen/text_tsize"/>
+
+
+        <Button
+            android:layout_width="@dimen/butt_width"
+            android:layout_height="@dimen/butt_height"
+            android:background="@color/color_button"
+            android:text="@string/butt_text"
+            android:textSize="@dimen/but1_text_size"
+            android:id="@+id/button_cobra"
+            android:layout_marginBottom="@dimen/layout_marg_button"
+            />
+
+        <Button
+        android:layout_width="@dimen/butt_width"
+        android:layout_height="@dimen/butt_height"
+        android:background="@color/color_button"
+        android:text="@string/but1_text"
+        android:textSize="@dimen/but1_text_size"
+        android:id="@+id/button_venus"
+            android:layout_marginBottom="@dimen/layout_marg_button"
+        />
+
+
+        <Button
+            android:layout_width="@dimen/butt_width"
+            android:layout_height="@dimen/butt_height"
+            android:background="@color/color_button"
+            android:text="@string/but_realistic"
+            android:textSize="@dimen/but1_text_size"
+            android:id="@+id/button_un"
+            android:layout_marginBottom="@dimen/layout_marg_button"
+            />
+
+        <Button
+            android:layout_width="@dimen/butt_width"
+            android:layout_height="@dimen/butt_height"
+            android:background="@color/color_button"
+            android:text="@string/but_design"
+            android:textSize="@dimen/but1_text_size"
+            android:id="@+id/button_de"
+            android:layout_marginBottom="@dimen/layout_marg_button"
+            />
+
+        <Button
+            android:layout_width="@dimen/butt_width"
+            android:layout_height="@dimen/butt_height"
+            android:background="@color/color_button"
+            android:text="@string/but_plaza"
+            android:textSize="@dimen/but1_text_size"
+            android:id="@+id/button_cplaza"
+            android:layout_marginBottom="@dimen/layout_marg_button"
+            />
 
 
         <android.support.v7.widget.RecyclerView
             android:id="@+id/recycler_view"
-            android:layout_width="200dp"
-            android:layout_height="200dp"
-            android:layout_marginTop="300dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="100dp"
 
 
 

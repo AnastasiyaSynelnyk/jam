@@ -3,5 +3,13 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="fab_margin">16dp</dimen>
-    <dimen name="text_tsize">20sp</dimen>
+    <dimen name="text_one">28sp</dimen>
+    <dimen name="text_tsize">14sp</dimen>
+    <dimen name="image_height">200dp</dimen>
+    <dimen name="layout_marg_button">15dp</dimen>
+    <dimen name="image_width">200dp</dimen>
+    <dimen name="butt_height">20dp</dimen>
+    <dimen name="butt_width">60dp</dimen>
+    <dimen name="but1_text_size">8sp</dimen>
+    <dimen name="marg_top">350dp</dimen>
 </resources>
