@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidStudyJam</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">A self-made billionaire came up with these wacky concept buildings —
+                         including a leg tower</string>
+    <string-array name="buildings_arr">
+        <item>http://static4.techinsider.io/image/56f96ca752bcd05c658b90d8-1200/vasily-klyukin-asian-cobra-tower3.jpg</item>
+        <item>http://static6.techinsider.io/image/56f96cae52bcd029008b9262-1200/the-little-black-dress-inspired-by-coco-chanel-would-house-fashion-retailers.jpg</item>
+        <item>http://static2.techinsider.io/image/56f96cc452bcd01d7b8b8f60-1200/i-know-that-90-of-my-concepts-are-realistic-and-10-are-realistic-but-expensive-klyukin-says-there-are-no-impossible-concepts.jpg</item>
+        <item>http://static6.techinsider.io/image/56f96cce52bcd05b008b92a0-1200/vasily-klyukin-doesnt-design-buildings-he-designs-landmarks.jpg</item>
+        <item>http://static2.techinsider.io/image/56f96c9e52bcd029008b9260-1200/he-has-10-to-50-ideas-for-new-buildings-a-day-klyukin-tells-us-the-self-proclaimed-introvert-says-spending-lots-of-time-in-his-head-provides-inspiration.jpg</item>
+    </string-array>
+</resources>
